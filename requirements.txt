@@ -1,0 +1,13 @@
+Django==4.2
+djangorestframework
+python-dotenv
+Pillow
+psycopg2-binary
+django-cors-headers
+djangorestframework-simplejwt
+gunicorn
+whitenoise
+drf_spectacular
+python-dotenv
+groq
+joblib
