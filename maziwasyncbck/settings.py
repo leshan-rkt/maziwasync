@@ -104,9 +104,9 @@ WSGI_APPLICATION = 'maziwasyncbck.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sophieemp_maziwasyncbck_db',
-        'HOST':'mysql-sophieemp.alwaysdata.net',
-        'USER':'sophieemp',
+        'NAME': 'raketaleshan_maziwasyncbck_db',
+        'HOST':'mysql-raketaleshan.alwaysdata.net',
+        'USER':'raketaleshan',
         'PASSWORD':'modcom2026',
     }
 }

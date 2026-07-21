@@ -11,3 +11,4 @@ drf_spectacular
 python-dotenv
 groq
 joblib
+mysqlclient
